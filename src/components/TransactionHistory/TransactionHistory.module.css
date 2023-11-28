@@ -1,0 +1,18 @@
+.transactionHistory {
+    width: 100%;
+    box-shadow: 2px 2px 10px grey;
+    margin-bottom: 36px;
+}
+
+.transactionTitle {
+    background-color: aquamarine;
+}
+
+.transactionData {
+    background-color: rgb(249, 249, 246);
+}
+
+td {
+    text-align: center;
+}
+
